@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    padding: 10px;
+    background-color: #bbffe1;
+    height: 865px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin-right: 220px;
+}
+
+.cars{
+    text-align: center;
+}
